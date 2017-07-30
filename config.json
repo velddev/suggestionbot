@@ -1,0 +1,6 @@
+{
+    // Channel for the bot to react in.
+    "channelId" : 0,
+    // Token to connect to Discord.
+    "token" : ""
+}
