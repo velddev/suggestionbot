@@ -1,0 +1,28 @@
+{
+  "name": "suggestionbot",
+  "version": "1.0.0",
+  "description": "A bot that will react with a :thumbsup: and :thumbsdown: when someone messages in channel specified.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "*"
+  },
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velddev/suggestionbot.git"
+  },
+  "keywords": [
+    "node.js",
+    "bot",
+    "discord",
+    "shit"
+  ],
+  "author": "velddev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/velddev/suggestionbot/issues"
+  },
+  "homepage": "https://github.com/velddev/suggestionbot#readme"
+}
